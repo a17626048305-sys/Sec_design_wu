@@ -1,0 +1,5 @@
+{
+  "name": "武汉中核网络安全态势感知中心",
+  "description": "网络安全大屏监控系统，包含资产管理、威胁情报、告警监控及工单处理等功能。",
+  "requestFramePermissions": []
+}
